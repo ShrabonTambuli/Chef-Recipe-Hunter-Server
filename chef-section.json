@@ -6,7 +6,8 @@
       "Chef_Name": "Vikas Khanna",
       "Likes": "100k",
       "View_Recipes_Button": "View Recipes",
-      "Years_of_experience": "3 years of experience."
+      "Years_of_experience": "3 years of experience.",
+      "a_short_bio_description": "Chef Vikas Khanna is a Michelin-starred chef, restaurateur, cookbook writer, filmmaker, and humanitarian. Vikas Khanna was born on November 14, 1971, in Amritsar, Punjab, to Davinder and Bindu Khanna. Vikas was born with a leg deformity, and he was not able to run until the age of 13.According to Vikas Khanna, his inspiration for becoming a chef was his biji (grandmother)."
     },
     {
       "id": "1",
@@ -15,7 +16,8 @@
       "Chef_Name": "Vineet Bhatia",
       "Likes": "200k",
       "View_Recipes_Button": "View Recipes",
-      "Years_of_experience": "5 years of experience."
+      "Years_of_experience": "5 years of experience.",
+      "a_short_bio_description": "Vineet Bhatia MBE (born 9 December 1967) is a British chef, restaurateur, author, and media personality. He was the first chef of Indian origin to be awarded a Michelin star. He opened two Rasoi restaurants, the first in Chelsea, London in 2004, and the second in Geneva, Switzerland, in 2008."
     },
     {
       "id": "2",
@@ -24,7 +26,8 @@
       "Chef_Name": "Anahita Dhondy",
       "Likes": "140k",
       "View_Recipes_Button": "View Recipes",
-      "Years_of_experience": "2 years of experience."
+      "Years_of_experience": "2 years of experience.",
+      "a_short_bio_description": "Anahita Dhondy is an Indian chef who formerly worked at SodaBottleOpenerWala and Bombay Irani Café. She was listed among the Forbes Asia 30 Under 30 list of 2019. Dhondy is popularly known for promoting Parsi cuisine."
     },
     {
       "id": "3",
@@ -33,7 +36,8 @@
       "Chef_Name": "Ajay Chopra",
       "Likes": "150k",
       "View_Recipes_Button": "View Recipes",
-      "Years_of_experience": "3 years of experience."
+      "Years_of_experience": "3 years of experience.",
+      "a_short_bio_description": "Incorporated in 2014, Chef Ajay Chopra is the Managing Director of Zion Hospitality Pvt. Ltd. Zion has an expertise in consulting restaurants, cafes and quick service diners, events as well as Media. Chef Ajay has launched several restaurants not only across India, but is also the Chef and Partner at Jashn in Muscat."
     },
     {
       "id": "4",
@@ -42,15 +46,17 @@
       "Chef_Name": "Kunal Kapur",
       "Likes": "130k",
       "View_Recipes_Button": "View Recipes",
-      "Years_of_experience": "2 years of experience."
+      "Years_of_experience": "2 years of experience.",
+      "a_short_bio_description": "Having served the world with his delicious delicacies, Chef Kunal Kapur is revered by every food connoisseur. An all-in-one Indian celebrity chef, restaurateur, and media personality, Kunal Kapur has helped all of us get a taste of his cooking secrets through his cookbooks."
     },
     {
-      "id": "6",
+      "id": "5",
       "Numbers_of_recipes": "110 items",
       "Chef_Picture": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/pooja-dhingra-11589353546631.jpg",
       "Chef_Name": "Pooja Dhingra",
       "Likes": "160k",
       "View_Recipes_Button": "View Recipes",
-      "Years_of_experience": "4 years of experience."
+      "Years_of_experience": "4 years of experience.",
+      "a_short_bio_description": "Pooja is a Mumbai-based pastry chef and owner of the first macaroon bakery franchise in India, Le 15 Patisserie, and Studio Fifteen Culinary Centre. She was included on the 2014 Forbes India 30 under 30 lists and Forbes 30 under 30 Asia edition."
     }
   ]
